@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: connected
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: naras
+Implementation-Vendor-Id: com.cities
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/connected
+Created-By: Maven Integration for Eclipse
+
